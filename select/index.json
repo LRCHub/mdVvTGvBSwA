@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "NINOKUNI",
+  "base_artist": "OZworld",
+  "createdAt": "2025-12-13T18:33:17.788801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NINOKUNI",
+      "artist": "OZworld",
+      "has_synced": true,
+      "path": "select/01_NINOKUNI_OZworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NINOKUNI (feat. TSUBAKI)",
+      "artist": "OZworld",
+      "has_synced": true,
+      "path": "select/02_NINOKUNI_(feat._TSUBAKI)_OZworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "NINOKUNI",
+      "artist": "OZworld a.k.a. R'kuma",
+      "has_synced": true,
+      "path": "select/03_NINOKUNI_OZworld_a.k.a._R'kuma.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NINOKUNI",
+      "artist": "OZworld, 唾奇",
+      "has_synced": false,
+      "path": "select/pl_01_NINOKUNI_OZworld,_唾奇.txt"
+    }
+  ]
+}
